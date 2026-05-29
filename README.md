@@ -2,6 +2,12 @@
 
 ### Smart Contract Code
 
+<img width="1917" height="1078" alt="Screenshot 2026-05-29 222152" src="https://github.com/user-attachments/assets/cb0a17d0-670a-4c8c-883a-dbcd6c926e07" />
+
+<img width="1903" height="942" alt="Screenshot 2026-05-29 221727" src="https://github.com/user-attachments/assets/3466845c-e80b-4537-9b35-b6fa58d8dc57" />
+
+
+
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
